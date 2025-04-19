@@ -27,4 +27,4 @@ run('matlab_visualization.m')
 ```
 
 ---
-**Author**: Sathwik | Section 3+ Contributions Only | GVSU - Cybersecurity
+**Author**: Sathwik Konijeti
